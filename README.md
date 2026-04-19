@@ -34,7 +34,7 @@ streamlit run app.py
 ```
 
 ## How to Use
-1. Upload images using the image uploader in sidebar
+1. Upload images using the image uploader in sideba
 2. Upload PDF or text files using the document uploader
 3. Click "Process Documents" to extract text and build vector database
 4. Ask any question about your uploaded documents in the input box
