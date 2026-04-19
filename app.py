@@ -28,7 +28,7 @@ def split_text_into_chunks(text):
     """Split text into manageable chunks for vector store"""
     text_splitter = CharacterTextSplitter(
         separator="\n",
-        chunk_size=1000,
+        chunk_size=500,
         chunk_overlap=200,
         length_function=len
     )
